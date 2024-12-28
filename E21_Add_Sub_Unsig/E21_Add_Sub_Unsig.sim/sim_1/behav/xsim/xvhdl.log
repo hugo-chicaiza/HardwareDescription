@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/LABS_SOC_Octavo/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig.srcs/sources_1/new/Add_Sub_Unsig.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'Add_Sub_Unsig'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/LABS_SOC_Octavo/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig.srcs/sim_1/new/tb_Add_Sub_Unsig.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'tb_Add_Sub_Unsig'

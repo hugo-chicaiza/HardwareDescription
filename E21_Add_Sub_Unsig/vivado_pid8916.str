@@ -1,0 +1,113 @@
+/*
+
+Xilinx Vivado v2020.1 (64-bit) [Major: 2020, Minor: 1]
+SW Build: 2902540 on Wed May 27 19:54:49 MDT 2020
+IP Build: 2902112 on Wed May 27 22:43:36 MDT 2020
+
+Process ID (PID): 8916
+License: Customer
+
+Current time: 	Tue Dec 10 22:01:05 COT 2024
+Time zone: 	Colombia Standard Time (America/Bogota)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 8
+
+Screen size: 1920x1080
+Screen resolution (DPI): 125
+Available screens: 1
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2020.1/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2020.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	Matthew
+User home directory: C:/Users/cjhma
+User working directory: C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig
+User country: 	ES
+User language: 	es
+User locale: 	es_ES
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2020.1
+RDI_DATADIR: C:/Xilinx/Vivado/2020.1/data
+RDI_BINDIR: C:/Xilinx/Vivado/2020.1/bin
+
+Vivado preferences file location: C:/Users/cjhma/AppData/Roaming/Xilinx/Vivado/2020.1/vivado.xml
+Vivado preferences directory: C:/Users/cjhma/AppData/Roaming/Xilinx/Vivado/2020.1/
+Vivado layouts directory: C:/Users/cjhma/AppData/Roaming/Xilinx/Vivado/2020.1/data/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2020.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/vivado.log
+Vivado journal file location: 	C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/vivado.jou
+Engine tmp dir: 	C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/.Xil/Vivado-8916-Matthew
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2020.1/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2020.1
+XILINX_SDK: C:/Xilinx/Vitis/2020.1
+XILINX_VITIS: C:/Xilinx/Vitis/2020.1
+XILINX_VIVADO: C:/Xilinx/Vivado/2020.1
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2020.1
+
+
+GUI allocated memory:	185 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 1,007 MB
+
+Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// bz (cs):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\cjhma\Downloads\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig.xpr. Version: Vivado v2020.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig.xpr 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 115 MB (+118516kb) [00:00:11]
+// [Engine Memory]: 1,007 MB (+904874kb) [00:00:11]
+// WARNING: HEventQueue.dispatchEvent() is taking  3447 ms.
+// Tcl Message: open_project C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig.xpr 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'D:/LABS_SOC_Octavo/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2020.1/data/ip'. 
+// HMemoryUtils.trashcanNow. Engine heap size: 1,007 MB. GUI used memory: 59 MB. Current time: 12/10/24, 10:01:06 PM COT
+// Project name: E21_Add_Sub_Unsig; location: C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig; part: xc7z010clg400-1
+dismissDialog("Open Project"); // bz (cs)
+// Tcl Command: 'rdi::info_commands {device::*}'
+// Tcl Command: 'rdi::info_commands {debug::*}'
+// Tcl Command: 'rdi::info_commands {*}'
+// Tcl Message: update_compile_order -fileset sources_1 
+// [GUI Memory]: 128 MB (+7294kb) [00:00:38]
+// Elapsed time: 30 seconds
+expandTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources]", 3); // B (F, cs)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, tb_Add_Sub_Unsig(Behavioral) (tb_Add_Sub_Unsig.vhd)]", 5, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, tb_Add_Sub_Unsig(Behavioral) (tb_Add_Sub_Unsig.vhd)]", 5, true); // B (F, cs) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Simulation Sources, sim_1, tb_Add_Sub_Unsig(Behavioral) (tb_Add_Sub_Unsig.vhd)]", 5, true, false, false, false, false, true); // B (F, cs) - Double Click - Node

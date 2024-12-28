@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 10 22:00:48 2024
+# Process ID: 8916
+# Current directory: C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10400 C:\Users\cjhma\Downloads\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig\E21_Add_Sub_Unsig.xpr
+# Log file: C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/vivado.log
+# Journal file: C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/cjhma/Downloads/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig/E21_Add_Sub_Unsig.xpr
+update_compile_order -fileset sources_1
