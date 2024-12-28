@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../multiplicador_divisor.srcs/sources_1/new/multiplicador_divisor.vhd" \
+"../../../../multiplicador_divisor.srcs/sim_1/imports/Downloads/multiplicador_divisor_tb.vhd" \
+
+# Do not sort compile order
+nosort

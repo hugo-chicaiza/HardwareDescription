@@ -1,0 +1,1 @@
+-wto "14c4956dff9a4401a28bc53a19684270" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "multiplicador_divisor_behav" "xil_defaultlib.multiplicador_divisor" -log "elaborate.log" 

@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 10 22:05:18 2024
+# Process ID: 15556
+# Current directory: C:/Users/cjhma/Downloads/1 Y 2/ROM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14444 C:\Users\cjhma\Downloads\1 Y 2\ROM\ROM.xpr
+# Log file: C:/Users/cjhma/Downloads/1 Y 2/ROM/vivado.log
+# Journal file: C:/Users/cjhma/Downloads/1 Y 2/ROM\vivado.jou
+#-----------------------------------------------------------
+start_guoopen_project {C:/Users/cjhma/Downloads/1 Y 2/ROM/ROM.xpr}
+update_compile_order -fileset sources_1

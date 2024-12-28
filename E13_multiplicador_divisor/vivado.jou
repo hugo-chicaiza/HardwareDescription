@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Tue Dec 10 21:59:51 2024
+# Process ID: 6092
+# Current directory: C:/Users/cjhma/Downloads/Multiplicador_y_Acumulador/E21_multiplicador_divisor/multiplicador_divisor
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2564 C:\Users\cjhma\Downloads\Multiplicador_y_Acumulador\E21_multiplicador_divisor\multiplicador_divisor\multiplicador_divisor.xpr
+# Log file: C:/Users/cjhma/Downloads/Multiplicador_y_Acumulador/E21_multiplicador_divisor/multiplicador_divisor/vivado.log
+# Journal file: C:/Users/cjhma/Downloads/Multiplicador_y_Acumulador/E21_multiplicador_divisor/multiplicador_divisor\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project -part xc7a12ticsg325-1L C:/Users/cjhma/Downloads/Multiplicador_y_Acumulador/E21_multiplicador_divisor/multiplicador_divisor/multiplicador_divisor.xpr
+update_compile_order -fileset sources_1

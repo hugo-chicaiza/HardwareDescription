@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ROM_FUNCTION.srcs/sources_1/new/bcd_to_ssd.vhd" \
+"../../../../ROM_FUNCTION.srcs/sources_1/new/Main.vhd" \
+
+# Do not sort compile order
+nosort

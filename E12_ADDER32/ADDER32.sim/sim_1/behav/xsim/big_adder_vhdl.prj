@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ADDER32.srcs/sources_1/new/carry_lookahead_package.vhd" \
+"../../../../ADDER32.srcs/sources_1/new/big_adder.vhd" \
+
+# Do not sort compile order
+nosort
